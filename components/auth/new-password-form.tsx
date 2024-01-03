@@ -107,7 +107,7 @@ export const NewPasswordForm = () => {
                 Submitting
               </>
             ) : (
-              <>Reset password</>
+              "Reset password"
             )}
           </Button>
         </form>
